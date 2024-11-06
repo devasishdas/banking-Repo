@@ -14,4 +14,4 @@
 
   - name: Deploy Docker Container
     command: docker run -itd -p 8083:8081 devasishdas/banking:latest 
-    this is playbook file 
+    
